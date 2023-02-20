@@ -1,0 +1,9 @@
+.image-item{
+
+    width: 100%;
+    height: 100%;
+}
+.image-item:hover{
+    transform: scale(1.2);
+    transition: 0.4s linear;
+}
